@@ -2,7 +2,7 @@
 
 A website that shows the live weather for any city, with an animated sky background (glowing sun and moving clouds).
 
-**Live demo:** https://uzairkhan86.github.io/weather-app/
+**Live demo:** https://uzairkhan86.github.io/Weather-app/
 
 ## Features
 - Search any city in the world
